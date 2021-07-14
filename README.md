@@ -120,7 +120,7 @@
         />
       </p>
 
-      <p align="left">
+      <p align="center">
         <img
           align="left"
           height="195"
