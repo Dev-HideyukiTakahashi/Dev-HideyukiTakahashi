@@ -15,9 +15,9 @@
         <a
           target="_blank"
           rel="noopener noreferrer"
-          href="imagem/programador.png"
+          href="https://github.com/Dev-HideyukiTakahashi/Dev-HideyukiTakahashi/blob/main/img/programador.png"
           ><img
-            src="imagem/programador.png"
+            src="https://github.com/Dev-HideyukiTakahashi/Dev-HideyukiTakahashi/blob/main/img/programador.png"
             align="right"
             width="350px"
             style="max-width: 100%"
