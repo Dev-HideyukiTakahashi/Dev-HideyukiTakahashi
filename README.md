@@ -111,7 +111,15 @@
             src="https://camo.githubusercontent.com/d9d4db0a25f6d41d6ef282c6adc2f9bd5b31201ef00ba580f5a945da4063a937/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57686174734170702d3235443336363f7374796c653d666f722d7468652d6261646765266c6f676f3d7768617473617070266c6f676f436f6c6f723d7768697465"
             data-canonical-src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&amp;logo=whatsapp&amp;logoColor=white"
             style="max-width: 100%"
-        /></a>
+        /></a>    
+                <a
+        href="https://dev-hideyukitakahashi.github.io/#home"
+        rel="nofollow"
+        target="_blank"
+        ><img
+          src="https://img.shields.io/badge/Meu-Currículo-<green>"
+          style="max-width: 100%"
+      /></a>
       </p>
       <p align="center">
         <img
