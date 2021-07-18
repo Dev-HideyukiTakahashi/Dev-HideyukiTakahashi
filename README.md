@@ -21,7 +21,7 @@
             align="right"
             width="350px"
             style="max-width: 100%"
-        /></a>
+        /></a>        
       </p>
       <p align="left">
         <strong
@@ -86,6 +86,16 @@
         <strong>Docker</strong>, <strong>Flutter</strong>,
         <strong>Node.js</strong>, <strong>Kotlin</strong> . . .
       </p>
+      <div class="curriculo" >
+        <a
+          href="https://dev-hideyukitakahashi.github.io/#home"
+          rel="nofollow"
+          target="_blank"
+          ><img
+          src="https://img.shields.io/badge/Meu-Currículo-sucess"
+          style="max-width: 100%";
+        /></a>
+      </div>   
       <p align="left">
         <a href="mailto:dev.hideyukitakahashi@gmail.com"
           ><img
@@ -119,25 +129,13 @@
             src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
             data-canonical-src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
             style="max-width: 100%"
-        /></a>      
+        /></a>       
       </p>
         <p align="center">
         <img
           align="left"
           src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Dev-HideyukiTakahashi&layout=compact&theme=dracula"/>
       </p>
-      <br><br><br><br><br><br>
-      <div class="curriculo" >
-      <a
-        href="https://dev-hideyukitakahashi.github.io/#home"
-        rel="nofollow"
-        target="_blank"
-        ><img
-        src="https://img.shields.io/badge/Meu-Currículo-sucess"
-        style="max-width: 100%";
-      /></a>
-      </div>
-      
 
   </body>
 </html>
