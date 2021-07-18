@@ -48,16 +48,15 @@
           >👨🏽‍💻</g-emoji
         >
         Conhecimentos: <strong>Java</strong>, <strong>SQL</strong>,
-        <strong>CSS3</strong>, <strong>HTML5</strong>,
-        <strong>Bootstrap4</strong>, <strong>JavaScript</strong>, e
-        <strong>WordPress</strong>.
+        <strong>CSS3</strong>, <strong>HTML5</strong> e <strong>JavaScript</strong>
+        .
       </p>
       <p align="left">
         <g-emoji
           class="g-emoji"
           alias="hammer_and_wrench"
           fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png"
-          >🧰</g-emoji
+          >🔨</g-emoji
         >
         Ferramentas: <strong>Visual Studio Code</strong>,
         <strong>Eclipse / Spring Tools 4 / IntelliJ </strong>,
@@ -72,7 +71,7 @@
           fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png"
           >🌱</g-emoji
         >
-        Estudando atualmente:<strong>React</strong>,
+        Estudando atualmente:<strong>React</strong>, <strong>Bootstrap4</strong>, <strong>WordPress</strong>, 
         <strong>Vue.js</strong>, <strong>jQuery</strong>,
       </p>
       <p align="left">
@@ -85,7 +84,7 @@
         Pretendo aprender: <strong>Spring</strong>, <strong>JPA</strong>,
         <strong>MongoDB</strong>, <strong>Hibernate</strong>,
         <strong>Docker</strong>, <strong>Flutter</strong>,
-        <strong>Node.js</strong>
+        <strong>Node.js</strong>, <strong>Kotlin</strong> . . .
       </p>
       <p align="left">
         <a href="mailto:dev.hideyukitakahashi@gmail.com"
@@ -111,17 +110,21 @@
             src="https://camo.githubusercontent.com/d9d4db0a25f6d41d6ef282c6adc2f9bd5b31201ef00ba580f5a945da4063a937/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57686174734170702d3235443336363f7374796c653d666f722d7468652d6261646765266c6f676f3d7768617473617070266c6f676f436f6c6f723d7768697465"
             data-canonical-src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&amp;logo=whatsapp&amp;logoColor=white"
             style="max-width: 100%"
-        /></a>    
-                <a
+        /></a>
+      <div class="curriculo" >
+      <a href="https://dev-hideyukitakahashi.github.io/#home" target="_blank">       
+      <i class="fa fa-address-card" style="font-size:28px;color: grey"></i></a>
+      <a
         href="https://dev-hideyukitakahashi.github.io/#home"
         rel="nofollow"
         target="_blank"
         ><img
-          src="https://img.shields.io/badge/Meu-Currículo-<green>"
-          style="max-width: 100%"
+        src="https://img.shields.io/badge/Meu-Currículo-lightgrey"
+        style="max-width: 100%";
       /></a>
+      </div>
       </p>
-      <p align="center">
+        <p align="center">
         <img
           align="left"
           src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Dev-HideyukiTakahashi&layout=compact&theme=dracula"/>
