@@ -111,24 +111,32 @@
             data-canonical-src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&amp;logo=whatsapp&amp;logoColor=white"
             style="max-width: 100%"
         /></a>
-      <div class="curriculo" >
-      <a href="https://dev-hideyukitakahashi.github.io/#home" target="_blank">       
-      <i class="fa fa-address-card" style="font-size:28px;color: grey"></i></a>
-      <a
-        href="https://dev-hideyukitakahashi.github.io/#home"
-        rel="nofollow"
-        target="_blank"
-        ><img
-        src="https://img.shields.io/badge/Meu-Currículo-lightgrey"
-        style="max-width: 100%";
-      /></a>
-      </div>
+                <a
+          href="https://facebook.com"
+          rel="nofollow"
+          target="_blank"
+          ><img
+            src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
+            data-canonical-src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
+            style="max-width: 100%"
+        /></a>      
       </p>
         <p align="center">
         <img
           align="left"
           src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Dev-HideyukiTakahashi&layout=compact&theme=dracula"/>
       </p>
+      <br><br><br><br><br><br>
+      <div class="curriculo" >
+      <a
+        href="https://dev-hideyukitakahashi.github.io/#home"
+        rel="nofollow"
+        target="_blank"
+        ><img
+        src="https://img.shields.io/badge/Meu-Currículo-sucess"
+        style="max-width: 100%";
+      /></a>
+      </div>
       
 
   </body>
