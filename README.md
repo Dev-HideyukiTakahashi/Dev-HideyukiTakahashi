@@ -15,13 +15,13 @@
         <a
           target="_blank"
           rel="noopener noreferrer"
-          href="imagem/programador.png"
+          href="https://github.com/Dev-HideyukiTakahashi/Dev-HideyukiTakahashi/blob/main/img/programador.png"
           ><img
-            src="imagem/programador.png"
+            src="https://github.com/Dev-HideyukiTakahashi/Dev-HideyukiTakahashi/blob/main/img/programador.png"
             align="right"
             width="350px"
             style="max-width: 100%"
-        /></a>
+        /></a>        
       </p>
       <p align="left">
         <strong
@@ -48,16 +48,15 @@
           >👨🏽‍💻</g-emoji
         >
         Conhecimentos: <strong>Java</strong>, <strong>SQL</strong>,
-        <strong>CSS3</strong>, <strong>HTML5</strong>,
-        <strong>Bootstrap4</strong>, <strong>JavaScript</strong>, e
-        <strong>WordPress</strong>.
+        <strong>CSS3</strong>, <strong>HTML5</strong> e <strong>JavaScript</strong>
+        .
       </p>
       <p align="left">
         <g-emoji
           class="g-emoji"
           alias="hammer_and_wrench"
           fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png"
-          >🧰</g-emoji
+          >🔨</g-emoji
         >
         Ferramentas: <strong>Visual Studio Code</strong>,
         <strong>Eclipse / Spring Tools 4 / IntelliJ </strong>,
@@ -72,7 +71,7 @@
           fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png"
           >🌱</g-emoji
         >
-        Estudando atualmente:<strong>React</strong>,
+        Estudando atualmente:<strong>React</strong>, <strong>Bootstrap4</strong>, <strong>WordPress</strong>, 
         <strong>Vue.js</strong>, <strong>jQuery</strong>,
       </p>
       <p align="left">
@@ -85,8 +84,18 @@
         Pretendo aprender: <strong>Spring</strong>, <strong>JPA</strong>,
         <strong>MongoDB</strong>, <strong>Hibernate</strong>,
         <strong>Docker</strong>, <strong>Flutter</strong>,
-        <strong>Node.js</strong>
+        <strong>Node.js</strong>, <strong>Kotlin</strong> . . .
       </p>
+      <div class="curriculo" >
+        <a
+          href="https://dev-hideyukitakahashi.github.io/#home"
+          rel="nofollow"
+          target="_blank"
+          ><img
+          src="https://img.shields.io/badge/Meu-Currículo-sucess"
+          style="max-width: 100%";
+        /></a>
+      </div>   
       <p align="left">
         <a href="mailto:dev.hideyukitakahashi@gmail.com"
           ><img
@@ -112,13 +121,21 @@
             data-canonical-src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&amp;logo=whatsapp&amp;logoColor=white"
             style="max-width: 100%"
         /></a>
+                <a
+          href="https://facebook.com"
+          rel="nofollow"
+          target="_blank"
+          ><img
+            src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
+            data-canonical-src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
+            style="max-width: 100%"
+        /></a>       
       </p>
-      <p align="center">
+        <p align="center">
         <img
           align="left"
           src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Dev-HideyukiTakahashi&layout=compact&theme=dracula"/>
       </p>
-      
 
   </body>
 </html>
