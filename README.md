@@ -71,7 +71,7 @@
           fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png"
           >🌱</g-emoji
         >
-        Estudando atualmente:<strong>React</strong>, <strong>Spring<strong>
+        Estudando atualmente: <strong>React</strong>, <strong>Spring<strong>
       </p>
       <p align="left">
         <g-emoji
