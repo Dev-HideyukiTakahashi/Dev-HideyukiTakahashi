@@ -47,9 +47,7 @@
           fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png"
           >👨🏽‍💻</g-emoji
         >
-        Conhecimentos: <strong>Java</strong>, <strong>SQL</strong>,
-        <strong>CSS3</strong>, <strong>HTML5</strong> e <strong>JavaScript</strong>
-        .
+        Conhecimentos: <strong>Java</strong>, <strong>SQL</strong>.
       </p>
       <p align="left">
         <g-emoji
@@ -60,7 +58,6 @@
         >
         Ferramentas: <strong>Visual Studio Code</strong>,
         <strong>Eclipse / Spring Tools 4 / IntelliJ </strong>,
-        <strong>Adobe XD</strong>, <strong>Figma</strong>,
         <strong>MySQL / PostgreSQL</strong>, <strong>Git</strong> e
         <strong>Github</strong>.
       </p>
@@ -82,7 +79,8 @@
         >
         Pretendo aprender: <strong>JPA</strong>,<strong>MongoDB</strong>, <strong>Hibernate</strong>,
         <strong>Docker</strong>, <strong>Flutter</strong>,
-        <strong>Node.js</strong>, <strong>Kotlin</strong> . . .
+        <strong>Node.js</strong>, <strong>Kotlin</strong>,
+        <strong>CSS3</strong>, <strong>HTML5</strong> e <strong>JavaScript</strong> . . .
       </p>
       <div class="curriculo" >
         <a
