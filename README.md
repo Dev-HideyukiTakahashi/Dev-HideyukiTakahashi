@@ -71,8 +71,7 @@
           fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png"
           >🌱</g-emoji
         >
-        Estudando atualmente:<strong>React</strong>, <strong>Bootstrap4</strong>, <strong>WordPress</strong>, 
-        <strong>Vue.js</strong>, <strong>jQuery</strong>,
+        Estudando atualmente:<strong>React</strong>, <strong>Spring<strong>
       </p>
       <p align="left">
         <g-emoji
@@ -81,8 +80,7 @@
           fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f929.png"
           >👨‍🎓</g-emoji
         >
-        Pretendo aprender: <strong>Spring</strong>, <strong>JPA</strong>,
-        <strong>MongoDB</strong>, <strong>Hibernate</strong>,
+        Pretendo aprender: <strong>JPA</strong>,<strong>MongoDB</strong>, <strong>Hibernate</strong>,
         <strong>Docker</strong>, <strong>Flutter</strong>,
         <strong>Node.js</strong>, <strong>Kotlin</strong> . . .
       </p>
