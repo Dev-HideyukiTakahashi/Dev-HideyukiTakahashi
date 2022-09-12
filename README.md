@@ -36,7 +36,7 @@
       </p>
       <p align="left">
         Meu nome é Hideyuki Takahashi, estudo para ser um
-        <strong>desenvolvedor Full Stack</strong>, busco sempre me atualizar e
+        <strong>desenvolvedor Java Web🍃</strong>, busco sempre me atualizar e
         conhecer novas tecnologias de desenvolvimento de sistemas.<br />
         Sou formado em Análise e Desenvolvimento de Sistemas pela Unicesumar.
       </p>
@@ -47,7 +47,7 @@
           fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png"
           >👨🏽‍💻</g-emoji
         >
-        Conhecimentos: <strong>Java</strong>, <strong>SQL</strong>.
+        Conhecimentos: <strong>Java (Servlet, JSP, JSF)</strong>, <strong> Javascript (Jquery)</strong>,<strong> HTML</strong>,<strong> CSS(Bootstrap)</strong>,<strong> SQL</strong>.
       </p>
       <p align="left">
         <g-emoji
@@ -68,7 +68,7 @@
           fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png"
           >🌱</g-emoji
         >
-        Estudando atualmente: <strong>React</strong>, <strong>Spring<strong>.
+        Estudando atualmente: <strong>JSF</strong>, <strong> JSP</strong>.
       </p>
       <p align="left">
         <g-emoji
@@ -77,10 +77,9 @@
           fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f929.png"
           >👨‍🎓</g-emoji
         >
-        Pretendo aprender: <strong>JPA</strong>, <strong>MongoDB</strong>, <strong>Hibernate</strong>,
-        <strong>Docker</strong>, <strong>Flutter</strong>,
-        <strong>Node.js</strong>, <strong>Kotlin</strong>,
-        <strong>CSS3</strong>, <strong>HTML5</strong> e <strong>JavaScript</strong> . . .
+        Pretendo aprender: <strong>Spring</strong>, <strong> MongoDB</strong>, 
+        <strong> Docker</strong>, <strong> Angular</strong>,
+       <strong> e <strong>React</strong> . . .
         <br>
         <br>
         <br>
