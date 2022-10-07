@@ -108,19 +108,14 @@
             style="max-width: 100%"
         /></a>
                 <a
-          href="https://facebook.com"
+          href="https://dev-hideyukitakahashi.github.io/#home"
           rel="nofollow"
           target="_blank"
           ><img
-            src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
-            data-canonical-src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
+            src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"
+            data-canonical-src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"
             style="max-width: 100%"
         /></a>       
-      </p>
-        <p align="center">
-        <img
-          align="left"
-          src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Dev-HideyukiTakahashi&layout=compact&theme=dracula"/>
       </p>
 
   </body>
