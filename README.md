@@ -47,7 +47,7 @@
           fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png"
           >👨🏽‍💻</g-emoji
         >
-        Conhecimentos: <strong>Java (Servlet, JSP, JSF)</strong>, <strong> Javascript (Jquery)</strong>,<strong> HTML</strong>,<strong> CSS(Bootstrap)</strong>,<strong> SQL</strong>.
+        Conhecimentos: <strong>Java (Servlet, JSP, Thymeleaf, JUnit/Mockito)</strong>, <strong> Javascript (Jquery)</strong>,<strong> HTML</strong>,<strong> CSS</strong>,<strong> SQL</strong>,<strong> Bootstrap</strong>.
       </p>
       <p align="left">
         <g-emoji
@@ -68,7 +68,7 @@
           fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png"
           >🌱</g-emoji
         >
-        Estudando atualmente: <strong>JSF</strong>, <strong> JSP</strong>.
+        Estudando atualmente: <strong>Spring</strong>, <strong> Angular</strong>.
       </p>
       <p align="left">
         <g-emoji
