@@ -79,7 +79,7 @@
         >
         Pretendo aprender: <strong>Spring</strong>, <strong> MongoDB</strong>, 
         <strong> Docker</strong>, <strong> Angular</strong>,
-       <strong> e <strong>React</strong> . . .
+       <strong><strong>React</strong>, <strong>Kotlin</strong>, <strong>IA</strong>, <strong>Cloud</strong> . . .
         <br>
         <br>
         <br>
