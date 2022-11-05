@@ -4,7 +4,6 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-
   </head>
   <body>
     <article
@@ -35,10 +34,8 @@
         >
       </p>
       <p align="left">
-        Meu nome é Hideyuki Takahashi, estudo para ser um
-        <strong>desenvolvedor Java Web🍃</strong>, busco sempre me atualizar e
-        conhecer novas tecnologias de desenvolvimento de sistemas.<br />
-        Sou formado em Análise e Desenvolvimento de Sistemas pela Unicesumar.
+        Meu nome é Hideyuki Takahashi,<br /> estudo para ser um
+        desenvolvedor<strong> Java - Spring REST</strong><br />
       </p>
       <p align="left">
         <g-emoji
@@ -47,19 +44,8 @@
           fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png"
           >👨🏽‍💻</g-emoji
         >
-        Conhecimentos: <strong>Java (Servlet, JSP, Thymeleaf, JUnit/Mockito)</strong>, <strong> Javascript (Jquery)</strong>,<strong> HTML</strong>,<strong> CSS</strong>,<strong> SQL</strong>,<strong> Bootstrap</strong>.
-      </p>
-      <p align="left">
-        <g-emoji
-          class="g-emoji"
-          alias="hammer_and_wrench"
-          fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png"
-          >🔨</g-emoji
-        >
-        Ferramentas: <strong>Visual Studio Code</strong>,
-        <strong>Eclipse / Spring Tools 4 / IntelliJ </strong>,
-        <strong>MySQL / PostgreSQL</strong>, <strong>Git</strong> e
-        <strong>Github</strong>.
+        Conhecimentos: <br />
+        <strong>Java</strong>, <strong> Javascript</strong>,<strong> HTML</strong>,<strong> CSS</strong>,<strong> SQL</strong>,<strong> Bootstrap</strong>.
       </p>
       <p align="left">
         <g-emoji
@@ -68,7 +54,8 @@
           fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png"
           >🌱</g-emoji
         >
-        Estudando atualmente: <strong>Spring</strong>, <strong> Angular</strong>.
+        Estudando atualmente:<br />
+         <strong>Spring REST</strong>.
       </p>
       <p align="left">
         <g-emoji
@@ -77,10 +64,15 @@
           fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f929.png"
           >👨‍🎓</g-emoji
         >
-        Pretendo aprender: <strong>Spring</strong>, <strong> MongoDB</strong>, 
-        <strong> Docker</strong>, <strong> Angular</strong>,
+        Pretendo aprender:<br />
+       <strong>Angular</strong>, <strong> MongoDB</strong>, 
+        <strong> Docker</strong>,
        <strong><strong>React</strong>, <strong>Kotlin</strong>, <strong>IA</strong>, <strong>Cloud</strong> . . .
         <br>
+        <br>
+         <a href="https://github.com/Dev-HideyukiTakahashi?tab=stars"
+         target="_blank"
+          >Acesso aos Repositórios</a>
         <br>
         <br>
         <a href="mailto:dev.hideyukitakahashi@gmail.com"
