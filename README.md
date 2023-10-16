@@ -34,7 +34,7 @@
         >
       </p>
       <p align="left">
-        Meu nome é Hideyuki Takahashi,<br /> estudo para ser um
+        Meu nome é Hideyuki Takahashi,<br /> sou
         desenvolvedor<strong> Java - Spring REST</strong><br />
       </p>
       <p align="left">
