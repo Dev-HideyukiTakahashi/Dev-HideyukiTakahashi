@@ -63,6 +63,7 @@
         >
         Database<br />
         </p>
+        <div>
       <img
             src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"
         />
@@ -72,6 +73,7 @@
       <img
             src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"
              />
+             </div>
              <br/>
         <p>        <br/>☎️Contato</p>
         <a href="mailto:dev.hideyukitakahashi@gmail.com"
