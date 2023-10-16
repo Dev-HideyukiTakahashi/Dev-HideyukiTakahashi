@@ -10,18 +10,6 @@
       class="markdown-body entry-content container-lg f5"
       itemprop="text"
     >
-      <p>
-        <a
-          target="_blank"
-          rel="noopener noreferrer"
-          href="https://github.com/Dev-HideyukiTakahashi/Dev-HideyukiTakahashi/blob/main/img/programador.png"
-          ><img
-            src="https://github.com/Dev-HideyukiTakahashi/Dev-HideyukiTakahashi/blob/main/img/programador.png"
-            align="right"
-            width="350px"
-            style="max-width: 100%"
-        /></a>        
-      </p>
       <p align="left">
         <strong
           >Olá!
