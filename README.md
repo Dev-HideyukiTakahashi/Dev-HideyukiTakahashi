@@ -35,7 +35,7 @@
       </p>
       <p align="left">
         Meu nome é Hideyuki Takahashi,<br /> sou
-        desenvolvedor<strong> Java - Spring REST</strong><br />
+        desenvolvedor<strong> Java.</strong><br />        <br/>
       </p>
       <p align="left">
         <g-emoji
@@ -44,37 +44,45 @@
           fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png"
           >👨🏽‍💻</g-emoji
         >
-        Conhecimentos: <br />
-        <strong>Java</strong>, <strong> Javascript</strong>,<strong> HTML</strong>,<strong> CSS</strong>,<strong> SQL</strong>,<strong> Bootstrap</strong>.
-      </p>
-      <p align="left">
+        Back-end: 
+      </p><img
+            src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"
+        />
+        <img
+            src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"
+        />
+        <p align="left">
         <g-emoji
           class="g-emoji"
           alias="seedling"
           fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png"
-          >🌱</g-emoji
+          > <br/>🎨</g-emoji
         >
-        Estudando atualmente:<br />
-         <strong>Spring REST</strong>.
+        Front-end:<br />            
       </p>
+       <img
+            src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"
+        /> 
       <p align="left">
         <g-emoji
           class="g-emoji"
           alias="star_struck"
           fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f929.png"
-          >👨‍🎓</g-emoji
+          >        <br/>💾</g-emoji
         >
-        Pretendo aprender:<br />
-       <strong>Angular</strong>, <strong> MongoDB</strong>, 
-        <strong> Docker</strong>,
-       <strong><strong>React</strong>, <strong>Kotlin</strong>, <strong>IA</strong>, <strong>Cloud</strong> . . .
-        <br>
-        <br>
-         <a href="https://github.com/Dev-HideyukiTakahashi?tab=stars"
-         target="_blank"
-          >Acesso aos Repositórios</a>
-        <br>
-        <br>
+        Database<br />
+        </p>
+      <img
+            src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"
+        />
+      <img
+            src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"
+        />
+      <img
+            src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"
+             />
+             <br/>
+        <p>        <br/>☎️Contato</p>
         <a href="mailto:dev.hideyukitakahashi@gmail.com"
           ><img
             src="https://camo.githubusercontent.com/571384769c09e0c66b45e39b5be70f68f552db3e2b2311bc2064f0d4a9f5983b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465"
@@ -109,6 +117,10 @@
             style="max-width: 100%"
         /></a>       
       </p>
+                   <br/>
+         <a href="https://github.com/Dev-HideyukiTakahashi?tab=stars"
+         target="_blank"
+          >Acesso aos Repositórios</a>
 
   </body>
 </html>
