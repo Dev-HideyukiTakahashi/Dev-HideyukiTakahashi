@@ -77,7 +77,7 @@
              <br/>
         <p>        <br/>☎️Contato</p>
         <a href="mailto:dev.hideyukitakahashi@gmail.com"
-          ><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+          ><img target="_blank" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
         </a>
         <a
           href="https://www.linkedin.com/in/dev-hideyukitakahashi/"
@@ -89,14 +89,14 @@
           href="https://api.whatsapp.com/send?phone=5511942051849"
           rel="nofollow"
           target="_blank"
-          ><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"/>
+          ><img target="_blank" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"/>
         </a>
         <a
           href="https://dev-hideyukitakahashi.github.io/#home"
           rel="nofollow"
           target="_blank"
           ><img
-            src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"
+            src= "https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"
             data-canonical-src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"
             style="max-width: 100%"
         /></a>       
