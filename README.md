@@ -36,10 +36,10 @@
       </p>
       <div>
       <img
-            src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"
+            src="https://badges.aleen42.com/src/java.svg"
         />
         <img
-            src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"
+            src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"
         />
         </div>
         <p align="left">
@@ -52,7 +52,7 @@
         Front-end:<br />            
       </p>
        <img
-            src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"
+            src="https://badges.aleen42.com/src/angular.svg"
         /> 
       <p align="left">
         <g-emoji
@@ -65,34 +65,31 @@
         </p>
         <div>
       <img
-            src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"
+            src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"
         />
       <img
-            src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"
+            src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"
         />
       <img
-            src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"
+            src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"
              />
              </div>
              <br/>
         <p>        <br/>☎️Contato</p>
-        <a href="mailto:dev.hideyukitakahashi@gmail.com"
-          target="_blank"
-          ><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+        <a href="mailto:dev.hideyukitakahashi@gmail.com"  target="_blank" >
+          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
         </a>
         <a
-          href="https://www.linkedin.com/in/dev-hideyukitakahashi/"
-          target="_blank"
-          ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
+          href="https://www.linkedin.com/in/dev-hideyukitakahashi/" target="_blank">
+          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
         </a>
         <a
           href="https://api.whatsapp.com/send?phone=5511942051849"
           target="_blank"
-          ><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"/>
+          ><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white""/>
         </a>
         <a
-          href="https://dev-hideyukitakahashi.github.io/#home"
-          target="_blank"
+          href="https://dev-hideyukitakahashi.github.io/#home" target="_blank"
           ><img
             src= "https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"
             data-canonical-src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"
@@ -100,9 +97,9 @@
         /></a>       
       </p>
                    <br/>
-         <a href="https://github.com/Dev-HideyukiTakahashi?tab=stars"
-         target="_blank"
-          >Acesso aos Repositórios</a>
+         <a href="https://github.com/Dev-HideyukiTakahashi?tab=stars" target="_blank">
+           Acesso aos Repositórios
+         </a>
 
   </body>
 </html>
