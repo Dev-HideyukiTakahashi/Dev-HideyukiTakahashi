@@ -24,7 +24,7 @@
       <p align="left">
         Meu nome é Hideyuki Takahashi,<br /> 
         sou formado em análise e desenvolvimento de sistemas (07-2021),<br/>
-        atualmente estou cursando MBA Full Stack Developer pela Impacta Tecnologia (09-2024 / 09-2025).<br />        <br/>
+        cursando MBA Full Stack Developer na Impacta Tecnologia (09-2024 / 09-2025).<br />        <br/>
       </p>
       <p align="left">
         <g-emoji
