@@ -8,8 +8,7 @@
   <body>
     <article
       class="markdown-body entry-content container-lg f5"
-      itemprop="text"
-    >
+      itemprop="text">
       <p align="left">
         <strong
           >Olá!
@@ -18,8 +17,7 @@
             alias="wave"
             fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png"
             >👋</g-emoji
-          ></strong
-        >
+          ></strong>
       </p>
       <p align="left">
         Meu nome é Hideyuki Takahashi,<br /> 
@@ -43,14 +41,14 @@
               src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"
         />
       </div>
-        <p align="left">
-        <g-emoji
-          class="g-emoji"
-          alias="seedling"
-          fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png"
-          > <br/>🎨</g-emoji
-        >
-        Front-end:<br />            
+      <p align="left">
+      <g-emoji
+        class="g-emoji"
+        alias="seedling"
+        fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png"
+        > <br/>🎨</g-emoji
+      >
+      Front-end:<br />            
       </p>
       <div>
         <img
@@ -68,20 +66,25 @@
           >        <br/>💾</g-emoji
         >
         Database<br />
-        </p>
-        <div>
-      <img
-            src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"
-        />
-      <img
-            src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"
-        />
-      <img
-            src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"
-             />
-             </div>
-             <br/>
-        <p>        <br/>☎️Contato</p>
+      </p>
+      <div>
+        <img
+              src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"
+          />
+        <img
+              src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"
+          />
+        <img
+              src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"
+               />
+      </div>
+      <br/>
+      <hr/>
+      <p><br/>📂Repositórios</p>
+      <a href="https://github.com/Dev-HideyukiTakahashi?tab=stars" target="_blank">
+        <img src="https://img.shields.io/badge/Repositories-8A2BE2" />
+      </a>
+      <p><br/>☎️Contato</p>
         <a href="mailto:dev.hideyukitakahashi@gmail.com"  target="_blank" >
           <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
         </a>
@@ -98,14 +101,7 @@
           href="https://dev-hideyukitakahashi.github.io/#home" target="_blank"
           ><img
             src= "https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"
-            data-canonical-src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"
-            style="max-width: 100%"
         /></a>       
       </p>
-                   <br/>
-         <a href="https://github.com/Dev-HideyukiTakahashi?tab=stars" target="_blank">
-           Acesso aos Repositórios
-         </a>
-
   </body>
 </html>
