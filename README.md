@@ -36,13 +36,13 @@
         Back-end: 
       </p>
       <div>
-      <img
-            src="https://badges.aleen42.com/src/java.svg"
-        />
         <img
-            src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"
+              src="https://badges.aleen42.com/src/java.svg"
+          />
+        <img
+              src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"
         />
-        </div>
+      </div>
         <p align="left">
         <g-emoji
           class="g-emoji"
@@ -52,9 +52,14 @@
         >
         Front-end:<br />            
       </p>
-       <img
-            src="https://badges.aleen42.com/src/angular.svg"
+      <div>
+        <img
+              src="https://badges.aleen42.com/src/angular.svg"
         /> 
+        <img
+              src="https://badges.aleen42.com/src/react.svg"
+         />
+      </div>
       <p align="left">
         <g-emoji
           class="g-emoji"
