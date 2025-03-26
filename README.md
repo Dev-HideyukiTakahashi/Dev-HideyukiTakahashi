@@ -40,6 +40,9 @@
         <img
               src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"
         />
+        <img
+              src="https://img.shields.io/badge/node.js-339933?style=flat&logo=Node.js&logoColor=white"
+        />
       </div>
       <p align="left">
       <g-emoji
