@@ -81,13 +81,13 @@
               src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"
                />
       </div>
-      <br/>
-      <hr/>
       <p><br/>📂Repositórios</p>
       <a href="https://github.com/Dev-HideyukiTakahashi?tab=stars" target="_blank">
         <img src="https://img.shields.io/badge/Repositories-8A2BE2" />
       </a>
-      <p><br/>☎️Contato</p>
+      <br/>
+      <hr/>
+       <p> ☎️Contato</p>
         <a href="mailto:dev.hideyukitakahashi@gmail.com"  target="_blank" >
           <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
         </a>
@@ -101,7 +101,7 @@
           ><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white""/>
         </a>
         <a
-          href="https://dev-hideyukitakahashi.github.io/#home" target="_blank"
+          href="https://dev-hideyukitakahashi.github.io/portfolio" target="_blank"
           ><img
             src= "https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"
         /></a>       
