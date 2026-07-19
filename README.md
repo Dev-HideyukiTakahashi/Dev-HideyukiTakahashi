@@ -1,110 +1,72 @@
-<!DOCTYPE html>
-<html lang="pt-br">
-  <head>
-    <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  </head>
-  <body>
-    <article
-      class="markdown-body entry-content container-lg f5"
-      itemprop="text">
-      <p align="left">
-        <strong
-          >Olá!
-          <g-emoji
-            class="g-emoji"
-            alias="wave"
-            fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png"
-            >👋</g-emoji
-          ></strong>
-      </p>
-      <p align="left">
-        Meu nome é Hideyuki Takahashi,<br /> 
-        sou formado em análise e desenvolvimento de sistemas (07-2021),<br/>
-        com MBA Full Stack Developer (09-2025).<br />        <br/>
-      </p>
-      <p align="left">
-        <g-emoji
-          class="g-emoji"
-          alias="rocket"
-          fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png"
-          >👨🏽‍💻</g-emoji
-        >
-        Back-end: 
-      </p>
-      <div>
-        <img
-              src="https://badges.aleen42.com/src/java.svg"
-          />
-        <img
-              src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"
-        />
-        <img
-              src="https://img.shields.io/badge/node.js-339933?style=flat&logo=Node.js&logoColor=white"
-        />
-      </div>
-      <p align="left">
-      <g-emoji
-        class="g-emoji"
-        alias="seedling"
-        fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png"
-        > <br/>🎨</g-emoji
-      >
-      Front-end:<br />            
-      </p>
-      <div>
-        <img
-              src="https://badges.aleen42.com/src/angular.svg"
-        /> 
-        <img
-              src="https://badges.aleen42.com/src/react.svg"
-         />
-      </div>
-      <p align="left">
-        <g-emoji
-          class="g-emoji"
-          alias="star_struck"
-          fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f929.png"
-          >        <br/>💾</g-emoji
-        >
-        Database<br />
-      </p>
-      <div>
-        <img
-              src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"
-          />
-        <img
-              src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"
-          />
-        <img
-              src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"
-               />
-      </div>
-      <p><br/>📂Repositórios</p>
-      <a href="https://github.com/Dev-HideyukiTakahashi?tab=stars" target="_blank">
-        <img src="https://img.shields.io/badge/Repositories-8A2BE2" />
-      </a>
-      <br/>
-      <hr/>
-       <p> ☎️Contato</p>
-        <a href="mailto:dev.hideyukitakahashi@gmail.com"  target="_blank" >
-          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-        </a>
-        <a
-          href="https://www.linkedin.com/in/dev-hideyukitakahashi/" target="_blank">
-          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-        </a>
-        <a
-          href="https://api.whatsapp.com/send?phone=5511942051849"
-          target="_blank"
-          ><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white""/>
-        </a>
-        <a
-          href="https://dev-hideyukitakahashi.github.io" target="_blank"
-          ><img
-            src= "https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"
-        /></a>       
-      </p>
-  </body>
-</html>
+<!-- Banner -->
+<p align="center">
+  <img src="img/banner.png" alt="Hideyuki Takahashi" width="100%" />
+</p>
+
+<br>
+
+<p align="center">
+  Olá! Sou <b>Hideyuki Takahashi</b>.<br/>Transformo desafios de negócio em aplicações robustas e escaláveis, <br/>com foco em performance e código limpo.
+</p>
+
+<p align="center">
+  <a href="mailto:dev.hideyukitakahashi@gmail.com" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Gmail-%20%20%40-D4AF37?style=for-the-badge&labelColor=000000&logo=gmail&logoColor=D4AF37"/>
+  </a>
+  <a href="https://www.linkedin.com/in/dev-hideyukitakahashi/" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/LinkedIn-%20%20%2Fin%2F-D4AF37?style=for-the-badge&labelColor=000000&logo=linkedin&logoColor=D4AF37"/>
+  </a>
+  <a href="https://dev-hideyukitakahashi.github.io/" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Portfolio-%20%20%F0%9F%9A%80-D4AF37?style=for-the-badge&labelColor=000000&logo=&logoColor=D4AF37" alt="Portfolio"/>
+  </a>
+</p>
+
+---
+
+### 👨‍💻 Sobre Mim
+
+- 🎓 **Tecnólogo em Análise e Desenvolvimento de Sistemas**
+- 🎓 **MBA em Full Stack Developer**
+- 📍 **Diadema, São Paulo**
+
+---
+
+### 🛠️ Tecnologias Principais
+
+<p align="center">
+  <img src="https://skills.syvixor.com/api/icons?i=ts,js,nodejs,react,java,spring" alt="Core Backend/Front" />
+  <br>
+  <img src="https://skills.syvixor.com/api/icons?i=tailwind,vite,docker,postgresql" alt="Core Tooling" />
+</p>
+
+#### 🧩 Tecnologias Complementares e Ferramentas
+
+<br>
+
+<p align="center">
+  <img src="https://skills.syvixor.com/api/icons?i=nestjs,fastify,express,prisma,zod,jwt" alt="Backend Libs" />
+  <br>
+  <img src="https://skills.syvixor.com/api/icons?i=mongodb,redis,vitest,github,figma,notion,ubuntu" alt="DBs & Quality" />
+  <br>
+
+</p>
+
+---
+
+### 📚 Estudos e Referências Técnicas
+
+Organização de estudos e referências técnicas para atualização contínua
+
+- 💾 **[Labs](https://github.com/stars/Dev-HideyukiTakahashi/lists/projetos-estudo)**: Referências de arquitetura e integração full stack.
+- 🟢 **[Node.js & Ecossistema](https://github.com/stars/Dev-HideyukiTakahashi/lists/node)**: Foco em NestJS, Fastify e Express.
+- ☕ **[Bootcamp Spring](https://github.com/stars/Dev-HideyukiTakahashi/lists/bootcamp-java-spring-devsuperior)**: Referências de implementação e melhores práticas.
+- ⚛️ **[Frontend React](https://github.com/stars/Dev-HideyukiTakahashi/lists/react)**: Estudos em React, TypeScript e libs.
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Coding-%20%20%F0%9F%91%80-D4AF37?style=for-the-badge&labelColor=000000" alt="Assinatura Hideyuki Takahashi" />
+</p>
+<p align="center">
+  <i>Última atualização em [07/2026]</i>
+</p>
